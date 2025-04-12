@@ -1,4 +1,4 @@
-**# Система управления складом (WMS)
+# StorageFlow - Система управления складом
 
 ## Введение
 * [О системе](README.md)
@@ -43,28 +43,4 @@
 * [Упаковка (Packing API)](api/packing.md)
 * [Отгрузка (Shipping API)](api/shipping.md)
 * [Коды ошибок](api/error-codes.md)
-
-## Руководство разработчика
-* [Настройка среды разработки](developer-guide/setup.md)
-* [Структура проекта](developer-guide/project-structure.md)
-* [Руководство по расширению](developer-guide/extending.md)
-* [Мониторинг и логирование](developer-guide/monitoring.md)
-* [Тестирование](developer-guide/testing.md)
-* [Развертывание](developer-guide/deployment.md)
-
-## Руководство пользователя
-* [Введение для пользователей](user-guide/introduction.md)
-* [Работа с приемкой](user-guide/receiving.md)
-* [Работа с размещением](user-guide/placement.md)
-* [Управление товарами](user-guide/products.md)
-* [Управление заказами](user-guide/orders.md)
-* [Работа со сборкой](user-guide/picking.md)
-* [Работа с упаковкой](user-guide/packing.md)
-* [Работа с отгрузкой](user-guide/shipping.md)
-* [Отчеты](user-guide/reports.md)
-
-## Приложения
-* [Глоссарий](appendix/glossary.md)
-* [Часто задаваемые вопросы](appendix/faq.md)
-* [Диаграммы последовательности](appendix/sequence-diagrams.md)
-* [Диаграммы состояний](appendix/state-diagrams.md)**
+* [Примеры использования](api/examples.md)

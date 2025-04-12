@@ -1,4 +1,4 @@
-# Система управления складом (WMS)
+**# Система управления складом (WMS)
 
 ## Введение
 * [О системе](README.md)
@@ -67,4 +67,4 @@
 * [Глоссарий](appendix/glossary.md)
 * [Часто задаваемые вопросы](appendix/faq.md)
 * [Диаграммы последовательности](appendix/sequence-diagrams.md)
-* [Диаграммы состояний](appendix/state-diagrams.md)
+* [Диаграммы состояний](appendix/state-diagrams.md)**

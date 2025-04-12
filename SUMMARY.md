@@ -1,5 +1,7 @@
 # StorageFlow - Система управления складом
 
+- [Сообщить о баге](https://github.com/kreotiff-dev/wms-docs/issues)
+
 ## Введение
 
 - [О системе](README.md)
